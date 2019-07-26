@@ -1,0 +1,80 @@
+*{margin:0;padding:0}
+
+a{text-decoration:none }
+a:hover{text-decoration:underline ;}
+
+
+.mainWrappar {width:960px; margin:0 auto; display:block }
+
+.nav { min-height: 45px;background: #4e3a3a;width: 960px;}
+.nav ul li{list-style:none;float:left;position:relative;background:#000}
+.nav ul li a{text-decoration:none;padding:11px 15px;display:block;color:#afaaaa;font-family: 'Oswald', sans-serif;font-size:17px;
+transition:all 0.6s;-webkit-transition:all 0.6s;-moz-transition:all 0.6s;}
+.nav ul li a:hover{color:#fff}
+.nav ul li:hover{border-bottom:3px solid #fff}
+.nav ul li ul{position:absolute;left:-9999px;}
+.nav ul li:hover ul{left:10px;top:45px;}
+.nav ul li ul li { width: 87px;position: relative;}
+#monir{width: 150px;}
+.nav ul li ul li ul{position:absolute;top:-9999px;display:none}
+.nav ul li ul li:hover ul{top:0px;left:85px;display:block}
+.nok {
+	position:fixed;
+	top:0px;
+	z-index:9999;
+}
+div#slide img {
+    
+}
+div#slide {
+	display:block;
+	background-repeat: no-repeat;
+    background-image: url(zahid.jpg);
+    width: 960px;
+    height: 621px;
+}
+div#rasel img {
+    width: 960px;
+}
+h3 {
+    font-size: 50px;
+    font-family: fantasy;
+    background-color: lightyellow;
+    border-bottom: 2px solid chartreuse;
+}
+.rrr img {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.boc img{
+    width: 314px;
+    height: 314px;
+    background-color: green;
+    float: left;
+    border: 2px solid azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
