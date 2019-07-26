@@ -23,9 +23,7 @@ transition:all 0.6s;-webkit-transition:all 0.6s;-moz-transition:all 0.6s;}
 	top:0px;
 	z-index:9999;
 }
-div#slide img {
-    
-}
+
 div#slide {
 	display:block;
 	background-repeat: no-repeat;
